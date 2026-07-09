@@ -10,7 +10,9 @@
 - 🤝 Looking to collaborate on **open-source projects** and real-world software applications. <br>
 - 💡 Dedicated to continuous learning, innovation, and building projects that create meaningful impact. <br>
 
-www.linkedin.com/in/vasudev-kansal-0a197439b
+<a href="https://www.linkedin.com/in/vasudev-kansal-0a197439b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <hr></hr>
 <p align="center">
@@ -47,6 +49,6 @@ www.linkedin.com/in/vasudev-kansal-0a197439b
 </div>
 
 
-[![Vasudev's LinkedIn](https://www.linkedin.com/in/vasudev-kansal-0a197439b/)
+
 
 
