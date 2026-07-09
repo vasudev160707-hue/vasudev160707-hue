@@ -1,5 +1,5 @@
 <h1> ## 🚀 Aspiring Software Engineer. </h1>
-<h3>
+
 - 🎓 B.E. in Computer Science Engineering, Chitkara University (2025–2029) <br>
 - 💻 Passionate about software engineering, clean code, and innovative technology. <br>
 - 🌱 Building expertise in **C, C++, Java, Object-Oriented Programming (OOP), HTML, CSS, JavaScript, Git & GitHub.** <br>
@@ -9,4 +9,7 @@
 - 🎵 Music Producer & Musician passionate about composing, recording, and digital music production. <br>
 - 🤝 Looking to collaborate on **open-source projects** and real-world software applications. <br>
 - 💡 Dedicated to continuous learning, innovation, and building projects that create meaningful impact. <br>
-</h3>
+
+
+
+
