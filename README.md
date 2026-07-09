@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**vasudev160707-hue/vasudev160707-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> ## 🚀 Aspiring Software Engineer. </h1>
+<h5>
+- 🎓 B.E. in Computer Science Engineering, Chitkara University (2025–2029)
+- 💻 Passionate about software engineering, clean code, and innovative technology.
+- 🌱 Building expertise in **C, C++, Java, Object-Oriented Programming (OOP), HTML, CSS, JavaScript, Git & GitHub.**
+- 📚 Currently mastering **Data Structures & Algorithms** and exploring **Full Stack Development.**
+- 🤖 Enthusiastic about **Artificial Intelligence, Machine Learning, and Cybersecurity.**
+- 🎨 Creative Graphic Designer experienced with **Canva** and **Figma**.
+- 🎵 Music Producer & Musician passionate about composing, recording, and digital music production.
+- 🤝 Looking to collaborate on **open-source projects** and real-world software applications.
+- 💡 Dedicated to continuous learning, innovation, and building projects that create meaningful impact.
+</h5>
