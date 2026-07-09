@@ -1,4 +1,4 @@
-<h1> ## 🚀 Aspiring Software Engineer. </h1>
+<h3> ## 🚀 Aspiring Software Engineer. </h3>
 
 - 🎓 B.E. in Computer Science Engineering, Chitkara University (2025–2029) <br>
 - 💻 Passionate about software engineering, clean code, and innovative technology. <br>
@@ -10,12 +10,6 @@
 - 🤝 Looking to collaborate on **open-source projects** and real-world software applications. <br>
 - 💡 Dedicated to continuous learning, innovation, and building projects that create meaningful impact. <br>
 
-<a href="https://www.linkedin.com/in/vasudev-kansal-0a197439b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:vasudev160707@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 <hr/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
