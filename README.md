@@ -20,28 +20,38 @@
 <hr></hr>
 <p align="center">
   <samp>
-	  
-<hr/> -->
-<h2> 🥞 Tech Stack</h2>
+<hr/>
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/nodejs-%23f2ca61.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=140200"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
-<!-- <img alt="Figma" src="https://img.shields.io/badge/figma-%23ffd2ce.svg?style=for-the-badge&logo=figma&logoColor=140200" /> -->
-<img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
-<!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
-  </p>
+
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<br><br>
+
+<img alt="OOPs" src="https://img.shields.io/badge/OOPs-6A1B9A?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br><br>
+
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<br><br>
+
+<img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+</p>
+
 <br>
 	  
-<!-- ## Stats 📈 -->
-
 
 </div>
 
