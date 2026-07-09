@@ -13,17 +13,14 @@
 <a href="https://www.linkedin.com/in/vasudev-kansal-0a197439b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="mailto:vasudev160707@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 <hr></hr>
 <p align="center">
   <samp>
-
-
---->
-
-
----
-
+	  
 <hr/> -->
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
