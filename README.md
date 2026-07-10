@@ -6,7 +6,7 @@
 - 📚 Currently Mastering **Data Structures & Algorithms** and exploring **Full Stack Development.** <br>
 - 🤖 Enthusiastic about **Artificial Intelligence, Machine Learning, and Cybersecurity.** <br>
 - 🎨 Creative Graphic Designer experienced with **Canva** and **Adobe Photoshop**. <br>
-- 🎵 Music Producer & Musician passionate about Instrumentalist ,Composing, Digital music production. <br>
+- 🎵 Music Producer & Musician passionate about Instrumentals ,Composing, Digital music production. <br>
 - 🤝 Looking to collaborate on **Open-Source Projects** and Real-World Software Applications. <br>
 - 💡 Dedicated to Continuous Learning, Innovation, and Building Projects that Create Meaningful Impact. <br>
 
